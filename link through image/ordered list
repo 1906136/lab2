@@ -1,0 +1,33 @@
+
+<html>
+<body bgcolor="663366">
+<font size="7"><a href="main page.HTML"> BACK TO MAIN PAGE</a></font>
+<font  size="5" >
+<H1>ORDERED LIST</H1>
+Ordered(numbered) list are used to display a list of itemsthat should be in a specified order.<br>
+<h2><ORDERED LIST MARKUP:<BR></H2>
+ORDERED LIST USES ONE SET OF< OL>< /OL>TAGS WRAPPED AROUND ONE OR MORE SETS OF < LI>< /LI> TAGS.<BR><BR><BR>
+Ordered list can be displayed with several sequencing option.<br>The default in most browser is decimal number,but there are others available:<br>
+<UL><LI>LETTERS
+           <UL>
+                <LI>LOWERCASE ASCII LETTERS(a,b,c.......)</li>
+                 <li>UPPERCASE ASCII LETTERS(A,B,C.......)</LI>
+                 <LI>LOWERCASE CLASSICAL GREEK</LI></UL>
+</LI>
+<LI>NUMBERS
+<UL><LI>DECIMAL NUMBERS </LI>
+         <LI>DECIMAL NUMBERS WITH LEADING ZEROES(01,02,03.........)</LI>
+<LI>LOWERCASE  ROMAN NUMERALS(i,ii,iii,iv.............)</li>
+<li>UPPERCASE ROMAN NUMERALS(I,II,III..............)</LI>
+TRADITIONAL GEORGIAN NUMBERING(an,ban,gan......)</li>
+<li>TRADITIONAL AMERICAN NUMBERING(mek,yerku,yerek.....)</li></UL></LI>
+<BR><BR>
+EXAMPLE:  &nbsp LIST OF INGREDIENTS USED IN MAKING TEA:<OL>
+<LI>SUGAR</LI>
+<LI>MILK</LI>
+<LI>WATER</LI>
+<LI>TEA LEAF</LI></OL>
+
+</UL><HR COLOR="BLACK"><HR COLOR="BLACK"
+</body>
+</html> 
