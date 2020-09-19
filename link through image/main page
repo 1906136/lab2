@@ -1,0 +1,29 @@
+
+<html>
+<body bgcolor="#006666">
+<font size="5"><CENTER> List are used to group together related pieces of information so  they are clearly associated with each other and easy to read.</CENTER></font><br>
+<u><h2><center>DETAILED  &nbsp  STUDY   &nbsp ABOUT &nbsp    THREE &nbsp  TYPES &nbsp  OF  &nbsp LISTS IN &nbsp HTML</center></h2></U>
+<table width="250" height="250" align="center" border="2px">
+<th>ORDERED LIST</th>
+<th>UNORDERED LIST</th><th>DESCRIPTION LIST</th>
+<tr>
+<td><a href="ordered list.html"><img src="ordered.png" ></a></td>
+
+
+
+
+<td><a href="unordered list.html"><img src="unordered.png" ></a></td>
+
+
+
+
+<td><a href="description list.html"><img src="description.jpg" ></a></td>
+</tr><TR><TD COLSPAN="4" ALIGN="CENTER">NAME-RIYASHA JAISWAL<BR>ROLLNO-1906136</TD>
+</table><BR><BR><BR><BR>
+<hr color="black"><hr color="black"><hr color="black">
+</body>
+</html>
+
+
+
+
