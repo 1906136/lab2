@@ -1,0 +1,19 @@
+
+<HTML>
+<BODY bgcolor="#CC9999">
+<font size="7"><a href="main page.html">BACK TO MAIN PAGE</a></font>
+<font size="5">
+<H1>UNORDERED LIST</H1>
+
+Unordered list are used when a set of itemscan be placed in any order.<br>
+Example: SHOPPING LIST:<UL><LI>MILK</LI><LI>BREAD</LI><LI>BUTTER</LI><LI>COFFEE</LI></UL>
+<BR>
+<H2>UNORDERED LISTS MARKUP :</H2>
+UNORDERED LIST USES ONE SET OF < UL>< /UL> TAGS WRAPPED AROUND ONE OR MORE SETS OF < LI> < /LI> TAGS.<BR><BR><BR>
+
+Unordered list can be displayed with several options , like:
+<OL><LI>DISC:  &nbsp Set the list item marker to a bullet(default).
+.<LI>CIRCLE:  &nbsp Set the list item marker to a Circle.<LI>SQUARE:  &nbsp Set the list item marker to a Square.<LI>NONE:  &nbsp The list item  will not be marked .
+<HR COLOR="BLACK"><HR COLOR="BLACK">
+</BODY>
+</HTML>
